@@ -1,0 +1,7 @@
+package javaBeginnersGuideProjects.GenericsChapter13.Queue;
+// An exception for queue-empty errors.
+public class QueueEmptyException extends Exception{
+    public String toString(){
+        return "\nQueue is empty.";
+    }
+}
