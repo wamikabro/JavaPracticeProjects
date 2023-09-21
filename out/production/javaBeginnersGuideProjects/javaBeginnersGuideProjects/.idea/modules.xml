@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Getting Deeper/Getting Deeper.iml" filepath="$PROJECT_DIR$/Getting Deeper/Getting Deeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaBeginnersGuideProjects.iml" filepath="$PROJECT_DIR$/javaBeginnersGuideProjects.iml" />
     </modules>
   </component>
