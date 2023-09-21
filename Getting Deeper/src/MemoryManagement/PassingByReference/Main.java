@@ -1,4 +1,4 @@
-package MemoryManagement.PassingValues;
+package MemoryManagement.PassingByReference;
 
 public class Main {
     public static void main(String[] args) {

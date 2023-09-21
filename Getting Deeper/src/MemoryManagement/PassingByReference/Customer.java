@@ -1,4 +1,4 @@
-package MemoryManagement.PassingValues;
+package MemoryManagement.PassingByReference;
 
 public class Customer {
     private String name;
