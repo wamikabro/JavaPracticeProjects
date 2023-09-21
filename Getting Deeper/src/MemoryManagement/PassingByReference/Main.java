@@ -14,6 +14,7 @@ public class Main {
     }
 
     public static void renameCustomer(Customer cust){
+        // The name set before will be garbage collected in heap.
         cust.setName("Wasique");
     }
 }
