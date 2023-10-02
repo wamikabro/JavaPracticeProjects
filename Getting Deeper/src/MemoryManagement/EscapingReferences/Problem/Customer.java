@@ -1,19 +1,16 @@
 package MemoryManagement.EscapingReferences.Problem;
 
 public class Customer {
-    private String name;
+   private String name;
 
-    Customer(String name){
-        this.name = name;
-    }
+   public String getName(){
+       return name;
+   }
+   public Customer(String name){
+       this.name = name;
+   }
 
-    public String getName(){
-         String temp = this.name;
-         this.name = "haha";
-         return temp;
-    }
-
-    public void setName(String name){
-        this.name = name;
-    }
+   public String toString(){
+       return name;
+   }
 }
