@@ -17,6 +17,6 @@ public class Main {
             System.out.println(next);
         }
 
-        // stay secure, stay safe! 
+        // stay secure, stay safe!
     }
 }
