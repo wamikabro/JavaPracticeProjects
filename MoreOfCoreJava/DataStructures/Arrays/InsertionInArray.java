@@ -1,4 +1,4 @@
-package javaBeginnersGuideProjects.MoreOfCoreJava.Arrays;
+package javaBeginnersGuideProjects.MoreOfCoreJava.DataStructures.Arrays;
 
 import java.util.Scanner;
 

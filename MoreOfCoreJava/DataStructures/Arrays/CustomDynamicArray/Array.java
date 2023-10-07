@@ -1,4 +1,4 @@
-package javaBeginnersGuideProjects.MoreOfCoreJava.Arrays.CustomDynamicArray;
+package javaBeginnersGuideProjects.MoreOfCoreJava.DataStructures.Arrays.CustomDynamicArray;
 
 import java.util.Iterator;
 

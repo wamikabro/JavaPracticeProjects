@@ -1,4 +1,4 @@
-package javaBeginnersGuideProjects.MoreOfCoreJava.Arrays.CustomDynamicArray;
+package javaBeginnersGuideProjects.MoreOfCoreJava.DataStructures.Arrays.CustomDynamicArray;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Main {
         array.add("c");
         array.add("d");
 
-        
+
         // Hurray it's working!!!
         System.out.println(array.size());
         System.out.println(array);
