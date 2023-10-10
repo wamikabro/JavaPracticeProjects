@@ -24,7 +24,7 @@ public class Stack <T> implements Iterable<T>{
 
     // check if the stack is empty
     public boolean isEmpty(){
-        return list.isEmpty();
+        return size() == 0;
     }
 
     public void push(T elem){
