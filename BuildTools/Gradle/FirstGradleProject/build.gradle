@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'org.unbroken-dome.test-sets' version '4.0.0'
+}
+
+jar {
+	manifest{
+		attributes 'Main-Class': 'GradleTutorial'
+	}
+}
+
+
+repositories {
+    mavenCentral()
+}
