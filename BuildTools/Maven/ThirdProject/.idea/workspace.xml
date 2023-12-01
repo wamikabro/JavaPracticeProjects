@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0951ed2b-1eb3-47e3-a45e-7c3d9e11bc43" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Gradle/FirstGradleProject/src/test/java/.idea/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondProject/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecondProject/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MoreOfCoreJava/HTTPRequest/ConnectingURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MoreOfCoreJava/HTTPRequest/ConnectingURL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/ProblemCode/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/ProblemCode/BookCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/ProblemCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/ProblemCode/Price.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/SolutionCode/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/SolutionCode/BookCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/SolutionCode/BookReadOnly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/SolutionCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/BookCatalog/SolutionCode/Price.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/DuplicatingCollections/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/DuplicatingCollections/CustomerRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/DuplicatingCollections/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/HandlingObjects/CopyConstructor/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/HandlingObjects/CopyConstructor/CustomerRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/HandlingObjects/CopyConstructor/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/HandlingObjects/InterfaceSolution/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/HandlingObjects/InterfaceSolution/CustomerReadOnly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/HandlingObjects/InterfaceSolution/CustomerRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/HandlingObjects/InterfaceSolution/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/ImmutableCollections/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/ImmutableCollections/CustomerRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/ImmutableCollections/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/IterableSolution/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/IterableSolution/CustomerRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/IterableSolution/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/Problem/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/Problem/CustomerRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/EscapingReferences/Problem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/FinalKeyword/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/FinalKeyword/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/Finalize/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/Finalize/FinalizeMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/ForcingIntoPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/GarbageCollectionUsingGC/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/GarbageCollectionUsingGC/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/SoftLeaks/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/SoftLeaks/CustomerHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/SoftLeaks/CustomerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/SoftLeaks/GenerateCustomerTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/StringInternalization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/TryingVerboseGC/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/GarbageCollection/TryingVerboseGC/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/MemoryTest/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/MemoryTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/PassingByReference/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/PassingByReference/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Getting Deeper/MemoryManagement/PassingByValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/javaBeginnersGuideProjects/javaBeginnersGuideProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/javaBeginnersGuideProjects/javaBeginnersGuideProjects/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/javaBeginnersGuideProjects/javaBeginnersGuideProjects/MoreOfCoreJava/DataStructures/Queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/javaBeginnersGuideProjects/javaBeginnersGuideProjects/MoreOfCoreJava/DataStructures/Queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/javaBeginnersGuideProjects/javaBeginnersGuideProjects/MoreOfCoreJava/DataStructures/Stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/javaBeginnersGuideProjects/javaBeginnersGuideProjects/MoreOfCoreJava/DataStructures/Stack/Stack.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2Y6vFthUNyn3fmywUx541Bhnotp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.testMain">
+    <configuration name="All in ThirdProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirdProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirdProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThirdProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="testMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.testMain" />
+        <item itemvalue="JUnit.All in ThirdProject" />
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0951ed2b-1eb3-47e3-a45e-7c3d9e11bc43" name="Changes" comment="" />
+      <created>1699858742516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699858742516</updated>
+    </task>
+    <servers />
+  </component>
+</project>
